@@ -1,5 +1,4 @@
 .idea
-__init__.py
 __pycache__
 bin
 include
@@ -9,3 +8,8 @@ pyvenv.cfg
 config.py
 runserver.py
 tebear-aws-key-pair.pem
+/static/graph/
+zerospeech/english/test/
+zerospeech/english/train/
+
+*.pt
